@@ -1,2 +1,3 @@
-# test-commit-status
-This is for internal use. 
+# WARNING
+
+This is for internal use. Please don't fork, star, or submit issue/PR.
