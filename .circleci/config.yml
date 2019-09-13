@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  test:
+  build:
     docker:
       - image: circleci/openjdk:8u212-jdk-stretch
     steps:
@@ -10,4 +10,4 @@ workflows:
   version: 2
   default:
     jobs:
-      - test
+      - build
